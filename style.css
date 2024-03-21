@@ -3,6 +3,7 @@
     display: grid;
     grid-template-columns: 1fr 300px;
     margin-bottom: 10px;
+    font-color:silvergreen;
 }
 .anchar{
     float: right;
